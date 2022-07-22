@@ -1,5 +1,8 @@
 <h1 align="center"><img src="https://i.imgur.com/5F8oF8D.png"></h1>
-<h4 align="center">Project made with NextJS without backend using the concepts of JAMStack.</h4>
+<h4 align="center">
+Project made with NextJS without backend using the concepts of JAMStack. 
+
+Subscription is performed with the stripe api and saved in faunadb along with the github email, the content is loaded from the prismic CMS only for those who have an active subscription.</h4>
 <img src="https://i.imgur.com/lgHbrFq.png">
 
 <h3 align="center">Technologys</h3>
